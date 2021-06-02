@@ -1,11 +1,19 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:astro-ph.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        Europa: 4
+        Ganymede: 4
+        Callisto: 3
+        Enceladus: 4
+        Titan: 3
+        Triton: 3
+        Icy: 3
+        ocean: 2
+        plume: 3
+        radar: 3
+        Jupiter: 2
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 5
