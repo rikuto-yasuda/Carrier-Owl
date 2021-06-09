@@ -5,7 +5,7 @@ subject: 'cat:astro-ph.*'
 keywords:
         Europa: 4
         Ganymede: 4
-        Callisto: 3
+        Callisto: 4
         Enceladus: 4
         Titan: 3
         Triton: 3
@@ -16,4 +16,4 @@ keywords:
         Jupiter: 2
 
 # 通知の閾値
-score_threshold: 5
+score_threshold: 4
